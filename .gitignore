@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+data/*.db
+
+saved_models/
+*.log
+
+.env
+.env.*
